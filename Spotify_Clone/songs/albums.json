@@ -1,0 +1,87 @@
+[
+   {
+    "folder": "Angry_(mood)",
+    "title": "Angry Mood",
+    "description": "Calm your Anger",
+     "tracks": [
+      "Footsteps in the Attic.mp3",
+      "Mysterious Lights.mp3"
+    ],
+    "cover": "songs/Angry_(mood)/cover.jpg"
+    
+    },
+
+  {
+    "folder": "Bright_(mood)",
+    "title": "Bright Songs",
+    "description": "Bright Songs for you",
+      "tracks": [
+      "And Just Like That.mp3",
+      "Fresh Focus.mp3",
+      "Natural Vibes.mp3"
+    ],
+    "cover": "songs/Bright_(mood)/cover.jpg"
+    }  ,
+
+   {
+    "folder": "Chill_(mood)",
+      "title": "Just Chill",
+    "description": "Yes, Just Chill",
+       "tracks": [
+      "Cha-Cha Ender.mp3",
+      "Hello! Ma Baby.mp3",
+      "Wakka Wakka.mp3",
+      "Wizard Circus.mp3"
+    ],
+    "cover": "songs/Chill_(mood)/cover.jpg"
+
+    },
+
+    {
+      "folder": "Dark_(mood)",
+         "title": "Dark Horse",
+    "description": "Dark Songs for you",
+     "tracks": [
+      "Ambush in Rattlesnake Gulch.mp3",
+      "Awkward Apocalyptic Pickup.mp3",
+      "Improv for Evil.mp3"
+    ],
+    "cover": "songs/Dark_(mood)/cover.jpg"
+    },
+
+   {
+    "folder": "Funky_(mood)",
+     "title": "Go Funky",
+    "description": "Lets go Funky",
+      "tracks": [
+      "Battle Ready.mp3",
+      "Release the Hybrids.mp3",
+      "Think About It.mp3"
+    ],
+    "cover": "songs/Funky_(mood)/cover.jpg"
+    },
+
+    {
+      "folder": "Love_(mood)",
+         "title": "I Love You",
+    "description": "Love is in the air",
+     "tracks": [
+      "Isolation Waltz.mp3",
+      "Landra's Dream.mp3"
+    ],
+    "cover": "songs/Love_(mood)/cover.jpg"
+
+    },
+
+    {
+      "folder": "Uplifting_(mood)",
+         "title": "Get up",
+    "description": "You can do it!",
+     "tracks": [
+      "Isolation Waltz.mp3",
+      "Landra's Dream.mp3"
+    ],
+    "cover": "songs/Uplifting_(mood)/cover.jpg"
+    }
+
+  ]
